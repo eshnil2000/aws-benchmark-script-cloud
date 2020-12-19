@@ -15,6 +15,8 @@ See details on blogpost on [tecRacer AWS blog.de](www.aws-blog.de).
 Each step is a task in `Taskfile.yml`.
 
 So with installed `task.dev` and `cdk` you just start:
+### https://github.com/eshnil2000/task
+### https://www.npmjs.com/package/aws-cdk
 
 ```bash
 scripts/perform-bench.sh
