@@ -1,5 +1,5 @@
 # Benchmark Instances with 7zip
-
+### https://aws-blog.de/2020/10/start-guessing-capacity-benchmark-ec2-instances.html
 **Stop guessing capacity! - Start calculating.**
 
 If you migrate older server to the AWS Cloud using EC2 instances, the prefered way is to start with a good guess and then rightsize with CloudWatch metric data.
