@@ -1,5 +1,6 @@
 # aws-community-projects
 
+* https://aws-blog.de/2020/10/start-guessing-capacity-benchmark-ec2-instances.html
 Public AWS Projects for
 
 - aws-blog.de
